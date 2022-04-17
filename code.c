@@ -1,7 +1,6 @@
 #include <stdio.h>
 
-int main() {
-   /* Tax slabs for professionals in India varies depending on their Annual Income.
+/* Tax slabs for professionals in India varies depending on their Annual Income.
    The slabs are as follows:
    1. For income less than ₹250000, there's no tax imposed.
    2. For income between ₹250000-500000, 5% tax.
@@ -13,8 +12,9 @@ int main() {
 
    The C program reads the Annual Income of an employee as input from the user and calculates the tax imposed on the same.
    It then prints the Total Tax and hence Net Salary after Tax Deduction.
-   */
+*/
 
+int main() {
    double income, tax, NetSalary;
    printf("Input income: ");
    scanf("%lf", &income);
