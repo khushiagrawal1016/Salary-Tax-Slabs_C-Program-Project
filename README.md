@@ -8,5 +8,5 @@ The slabs are as follows:
    6. For income between ₹1250000-1500000, 25% tax.
    7. For income greater than ₹1500000, 30% tax.
 
-The C program reads the Annual Income of an employee as input from the user and calculates the tax imposed on the same.
+The C program reads the Annual Income of an employee as input from the user and calculates the tax imposed on the same.  
 It then prints the Total Tax and hence Net Salary after Tax Deduction.
