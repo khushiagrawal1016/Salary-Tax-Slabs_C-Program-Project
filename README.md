@@ -10,9 +10,8 @@ The slabs are as follows:
 
 The C program reads the Annual Income of an employee as input from the user and calculates the tax imposed on the same.  
 It then prints the Total Tax and hence Net Salary after Tax Deduction.    
+   
+   
+The C program reads the Employee details from the user along with the Annual Income of an employee as input and calculates the tax imposed on the same. It then prints the Total Tax and hence Net Salary after Tax Deduction.   
 
-![Capture2](https://user-images.githubusercontent.com/103752092/164537226-932130bd-d137-459e-91c8-8d1c637908eb.jpg)  
-
-![Capture1](https://user-images.githubusercontent.com/103752092/164537232-c321226d-2045-4e4c-bd3c-5fdd2a428e47.jpg)  
-
-![Capture3](https://user-images.githubusercontent.com/103752092/164537238-fa4971ad-905d-4409-bf6c-b7090a38cee8.jpg)
+![image](https://user-images.githubusercontent.com/103752092/175612450-a86bdd2d-7c53-446b-bb53-7768bf662a16.png)
